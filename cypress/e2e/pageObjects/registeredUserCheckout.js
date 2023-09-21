@@ -55,6 +55,9 @@ class obj {
     downloadInovoice='.col-sm-9 > .btn-default'
     deleteAccount=':nth-child(5) > a'
     ContinueDeleteAccount='[data-qa="continue-button"]'
+
+    registerORlogin='.modal-body > :nth-child(2) > a > u'
+    cart='.shop-menu > .nav > :nth-child(3) > a'
     
   }
 
